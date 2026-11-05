@@ -1,0 +1,8 @@
+{
+  "OpenGL": "4.6.0 - Build 32.0.101.7088",
+  "renderizador": "Intel(R) UHD Graphics",
+  "aquecimento_20_caixas_s": 7.482,
+  "quadro_20_caixas_ms": 10.55,
+  "corpos_em_repouso": 20,
+  "capturas": "capturas\\simulador"
+}

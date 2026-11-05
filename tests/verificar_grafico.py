@@ -13,7 +13,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import pygame
 from OpenGL import GL as gl
-from main import Aplicacao, criar_janela
+from legado import Aplicacao, criar_janela
 from desenho import LIMITE_TEXTURAS
 from jogo_2d import COLETA, ENTREGA, Jogo, META_ENTREGAS
 
